@@ -1,0 +1,3 @@
+icon: https://nats.io/img/logos/nats-icon-white.png
+deploy:
+  - helm upgrade --install nats nats
